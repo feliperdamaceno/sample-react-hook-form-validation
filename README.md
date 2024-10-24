@@ -1,6 +1,6 @@
 # sample-react-hook-form-validation
 
-A sample boilerplate on how to validate form with React Hook Form and Zod.
+A sample for form validation in React using React Hook Form and Zod, providing a clean and efficient setup for handling form validation with type-safe schemas.
 
 ![project-showcase](project-showcase/project-showcase.png)
 
